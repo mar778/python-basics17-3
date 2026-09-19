@@ -1,6 +1,6 @@
 # python-basics17-3
 markdown
-# Python Basics для AppSec
+# Python Basics 
 
 Простые примеры на Python для подготовки к переходу в AppSec.
 
